@@ -1,4 +1,4 @@
 # Abstract Factory pattern implementation
 
 ## Class diagram:
-![class diagram](classDiagram.png)
+![class diagram](ClassDiagram.png)
